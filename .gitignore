@@ -1,4 +1,5 @@
 df-env/ 
 venv/ 
 deepface-env/ 
-Recording.mp4 
+__pycache__/
+*.pyc
